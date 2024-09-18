@@ -1,0 +1,3 @@
+displayName = Silly Random Stuff
+author = mimig298
+version = 0.1
